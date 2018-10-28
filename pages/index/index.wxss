@@ -1,0 +1,5 @@
+button{
+	width: 50%;
+	background: #44b549;
+	color: #fff;
+}
